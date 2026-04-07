@@ -22,7 +22,7 @@ export default function Header() {
             <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background: "linear-gradient(135deg, #FF6B00, #FF8C33)" }}>
               <Icon name="Car" size={18} />
             </div>
-            <span className="font-oswald text-xl tracking-widest text-white">JAPAN<span className="text-gradient">AUTO</span></span>
+            <span className="font-oswald text-xl tracking-widest text-white">Гармония АВТО Fair Imports cars</span></span>
           </div>
 
           <nav className="hidden md:flex items-center gap-6">
